@@ -1,4 +1,4 @@
-<h3 align="center">Técnico em Informática para Internet</h3>
+<h3 align="center">Gabriel Gomes Pacheco</h3>
 
 - Email **gabrielgpacheco12@gmail.com**
 
