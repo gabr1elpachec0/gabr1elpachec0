@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-gomes-pacheco-103b661a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel gomes pacheco" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gabrielgpacheco1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gabrielgpacheco1" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/@gabrielgpacheco1](https://www.hackerrank.com/profile/gabrielgpacheco1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gabrielgpacheco1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
