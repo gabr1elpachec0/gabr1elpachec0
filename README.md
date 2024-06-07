@@ -14,8 +14,3 @@
 - ``MYSQL``
 - ``NODEJS``
 - ``EXPRESS``
-
-## Basic Skills
-- ``PYTHON``
-- ``PHP``
-- ``JAVA``
